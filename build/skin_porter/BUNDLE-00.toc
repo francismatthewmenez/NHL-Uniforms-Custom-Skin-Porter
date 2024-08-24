@@ -1,0 +1,4 @@
+([('skin_porter',
+   '/Users/matthewmenez/Desktop/NHL Uniforms Skin Pack Porter '
+   'Code/dist/skin_porter',
+   'EXECUTABLE')],)

@@ -1,0 +1,391 @@
+{
+  "skins": [
+    {
+      "localization_name": "ANA",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ANA home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "ANAx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ANA away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "BOS",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "BOS home.png",
+      "type": "custom"
+    },
+    {
+      "localization_name": "BOSx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "BOS away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "BUF",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "BUF home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "BUFx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "BUF away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CGY",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CGY home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CGYx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CGY away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CAR",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CAR home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CARx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CAR away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CHI",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CHI home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CHIx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CHI away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "COL",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "COL home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "COLx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "COL away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CBJ",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CBJ home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "CBJx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CBJ away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DAL",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DAL home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DALx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DAL away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DET",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DET home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "DETx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DET away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "EDM",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "EDM home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "EDMx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "EDM away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FLA",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FLA home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FLAx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FLA away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "LAK",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "LAK home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "LAKx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "LAK away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MIN",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MIN home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MINx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MIN away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MTL",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MTL home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "MTLx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MTL away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NSH",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NSH home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NSHx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NSH away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NJD",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NJD home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NJDx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NJD away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NYI",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NYI home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NYIx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NYI away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NYR",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NYR home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "NYRx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "NYR away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "OTT",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "OTT home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "OTTx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "OTT away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PHI",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PHI home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PHIx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PHI away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PIT",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PIT home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "PITx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "PIT away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SJS",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SJS home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SJSx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SJS away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SEA",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SEA home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "SEAx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SEA away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "STL",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "STL home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "STLx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "STL away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "TBL",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "TBL home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "TBLx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "TBL away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "TOR",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "TOR home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "TORx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "TOR away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "UTA",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "UTA home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "UTAx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "UTA away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VAN",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VAN home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VANx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VAN away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VGK",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VGK home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "VGKx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "VGK away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WSH",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WSH home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WSHx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WSH away.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WPG",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WPG home.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "WPGx",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WPG away.png",
+      "type": "free"
+    }
+
+  ],
+  "serialize_name": "Example",
+  "localization_name": "Example"
+}

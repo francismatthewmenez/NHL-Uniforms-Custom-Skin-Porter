@@ -1,0 +1,23 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "NHL Uniforms Skin Pack",
+        "uuid": "f03a9918-eee7-4e46-8aba-6ed5238acd5f",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "f2dc3682-ad11-4dfe-bd5b-7adc1da2f8bc",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
